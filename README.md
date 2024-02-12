@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Perhu, and i'm looking for internship or junior position.
-- 👀 I’m interested in self-improvment.
-- 🌱 I’m currently learning C# and Java.
+- 👋 Hi, I’m @Perhu.
 - 📫 Email: peterrachev99@gmail.com
 
 <!---
